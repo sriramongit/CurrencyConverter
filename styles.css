@@ -15,7 +15,7 @@ body{
     background-color: white;
     padding: 2rem;
     border-radius: 1rem;
-    min-height: 45vh;
+    min-height: auto;
     width: 50vh;
 }
 
